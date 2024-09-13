@@ -1,0 +1,60 @@
+/*======== navbar start ========*/
+.navbar-brand {
+    color: #0dcaf0;
+    padding: 10px 15px;
+    font-size: 16px;
+}
+.navbar-brand:hover {
+    color: white;
+    border-color: white !important;
+}
+.customActive {
+    color: #0dcaf0 !important;
+}
+.nav-link {
+    color: white;
+}
+.nav-link:hover {
+    color: #0dcaf0;
+}
+.navSearchBox {
+    border-radius: 0;
+    background-color: transparent;
+    color: #0dcaf0;
+    caret-color: #0dcaf0;
+}
+.navSearchBox:focus {
+    background-color: transparent;
+    outline: none;
+    color: #0dcaf0;
+}
+.navSearchBox::placeholder {
+    color: #0dcaf0;
+}
+.navSearchBtn {
+    border-radius: 0;
+}
+/*======== navbar end ========*/
+
+/*======== footer start ========*/
+a.btn.btn-outline-light.bsb-btn-circle.bsb-btn-circle.rounded-0:hover {
+    color: black;
+    background-color: cyan;
+    border: 1px solid black;
+}
+.accessibilityLink li a:hover {
+    color: cyan !important;
+}
+.storeLink li a:hover {
+    color: cyan !important;
+}
+.partnershipsLink li a:hover {
+    color: cyan !important;
+}
+.communitiesLink li a:hover {
+    color: cyan !important;
+}
+.shipingRefundEtcLink li a:hover {
+    color: cyan !important;
+}
+/*======== footer end ========*/
